@@ -1,3 +1,3 @@
 # Zip HTML
-The HTML, CSS and Javascript code all in serperate files.
-Plain HTML: <a href="https://github.com/Nether-Quest/Plain-HTML">Click heret</a>
+<p>The HTML, CSS and Javascript code all in serperate files.<p/>
+<p>Plain HTML: <a href="https://github.com/Nether-Quest/Plain-HTML">Click here</a><p/>
